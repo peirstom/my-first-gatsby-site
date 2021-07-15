@@ -47,6 +47,9 @@
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Quick start (Netlify)
 
 Deploy this starter with one click on [Netlify](https://app.netlify.com/sites/cocky-yonath-c8add5/overview):
+
+## 💻 Deployed at netlify
+Click the following link to see a live deployment on netlify: [Link to deployment](https://cocky-yonath-c8add5.netlify.app)
