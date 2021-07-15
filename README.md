@@ -49,4 +49,4 @@
 
 ## 🚀 Quick start (Gatsby Cloud)
 
-Deploy this starter with one click on [Netlify](https://www.gatsbyjs.com/cloud/):
+Deploy this starter with one click on [Netlify](https://app.netlify.com/sites/cocky-yonath-c8add5/overview):
